@@ -1,0 +1,490 @@
+[
+  {
+    "name": "Aaron",
+    "location": "lat=49.758122&lon=-92.653490"
+  },
+  {
+    "name": "Algonquin: Achray - Achray Campground",
+    "location": "lat=45.86837755341280&lon=-77.7566385269165"
+  },
+  {
+    "name": "Algonquin: Brent - Brent Campground",
+    "location": "lat=46.0262899719346&lon=-78.48864555358890"
+  },
+  {
+    "name": "Algonquin: Canisbay Lake - Canisbay Lake Campground",
+    "location": "lat=45.563650787746000&lon=-78.59218955039980"
+  },
+  {
+    "name": "Algonquin: Coon Lake - Coon Lake Campground",
+    "location": "lat=45.538553&lon=-78.405518"
+  },
+  {
+    "name": "Algonquin: Kearney Lake - Kearney Lake Campground",
+    "location": "lat=45.572390&lon=-78.439884"
+  },
+  {
+    "name": "Algonquin: Kiosk - Kiosk Campground",
+    "location": "lat=46.090852848331100&lon=-78.88372421264650"
+  },
+  {
+    "name": "Algonquin: Lake of Two Rivers - Lake of Two Rivers Campground",
+    "location": "lat=45.580182&lon=-78.502312"
+  },
+  {
+    "name": "Algonquin: Mew Lake - Mew Lake Campground",
+    "location": "lat=45.576174&lon=-78.516218"
+  },
+  {
+    "name": "Algonquin: Rock Lake - Rock Lake Campground",
+    "location": "lat=45.526070&lon=-78.409959"
+  },
+  {
+    "name": "Algonquin: Tea Lake - Tea Lake Campground",
+    "location": "lat=45.513898&lon=-78.720045"
+  },
+  {
+    "name": "Algonquin: Whitefish Lake - Whitefish Lake Group Campground",
+    "location": "lat=45.563290&lon=-78.437862"
+  },
+  {
+    "name": "Arrowhead",
+    "location": "lat=45.3915&lon=-79.2140"
+  },
+  {
+    "name": "Awenda",
+    "location": "lat=44.843699&lon=-80.002699"
+  },
+  {
+    "name": "Balsam Lake",
+    "location": "lat=44.62555&lon=-78.85738"
+  },
+  {
+    "name": "Bass Lake",
+    "location": "lat=44.601000&lon=-79.482900"
+  },
+  {
+    "name": "Batchawana Bay",
+    "location": "lat=46.944168&lon=-84.551017"
+  },
+  {
+    "name": "Biscotasi Lake",
+    "location": "lat=47.352455&lon=-81.997528"
+  },
+  {
+    "name": "Blue Lake",
+    "location": "lat=49.904122&lon=-93.469178"
+  },
+  {
+    "name": "Bon Echo",
+    "location": "lat=44.89720&lon=-77.20950"
+  },
+  {
+    "name": "Bonnechere",
+    "location": "lat=45.65729&lon=-77.57886"
+  },
+  {
+    "name": "Bronte Creek",
+    "location": "lat=43.40684&lon=-79.76889"
+  },
+  {
+    "name": "Caliper Lake",
+    "location": "lat=49.068974&lon=-93.904116"
+  },
+  {
+    "name": "Charleston Lake",
+    "location": "lat=44.50176&lon=-76.04133"
+  },
+  {
+    "name": "Chutes",
+    "location": "lat=46.217628&lon=-82.070231"
+  },
+  {
+    "name": "Craiglieth",
+    "location": "lat=44.5365537&lon=-80.3482702"
+  },
+  {
+    "name": "Darlington",
+    "location": "lat=43.8755&lon=-78.777834"
+  },
+  {
+    "name": "Driftwood",
+    "location": "lat=46.18000&lon=-77.84000"
+  },
+  {
+    "name": "Earl Rowe",
+    "location": "lat=44.150159&lon=-79.898905"
+  },
+  {
+    "name": "Emily",
+    "location": "lat=44.340451&lon=-78.534350"
+  },
+  {
+    "name": "Esker Lakes",
+    "location": "lat=48.281932&lon=-79.872539"
+  },
+  {
+    "name": "Fairbank",
+    "location": "lat=46.46988429&lon=-81.43804014"
+  },
+  {
+    "name": "Ferris",
+    "location": "lat=44.290800&lon=-77.785800"
+  },
+  {
+    "name": "Finlayson Point",
+    "location": "lat=47.054987&lon=-79.804448"
+  },
+  {
+    "name": "Fitzroy",
+    "location": "lat=45.45239&lon=-76.21498"
+  },
+  {
+    "name": "Forks of the Credit",
+    "location": "lat=43.81636964&lon=-80.01141257"
+  },
+  {
+    "name": "French River",
+    "location": "lat=46.018035&lon=-80.583773"
+  },
+  {
+    "name": "Frontenac",
+    "location": "lat=44.504167&lon=-76.555833"
+  },
+  {
+    "name": "Fushimi Lake",
+    "location": "lat=49.838087&lon=-83.922523"
+  },
+  {
+    "name": "Grundy Lake",
+    "location": "lat=45.91768&lon=-80.55927"
+  },
+  {
+    "name": "Halfway Lake",
+    "location": "lat=46.90814815&lon=-81.6325593"
+  },
+  {
+    "name": "Inverhuron",
+    "location": "lat=44.30039235&lon=-81.57963959"
+  },
+  {
+    "name": "Ivanhoe Lake",
+    "location": "lat=48.175915&lon=-82.501216"
+  },
+  {
+    "name": "John E. Pearce",
+    "location": "lat=42.606976&lon=-81.443629"
+  },
+  {
+    "name": "Kakabeka Falls",
+    "location": "lat=48.404476&lon=-89.626670"
+  },
+  {
+    "name": "Kap-Kig-Iwan",
+    "location": "lat=47.80119080100&lon=-79.87924004720"
+  },
+  {
+    "name": "Kawartha Highlands",
+    "location": "lat=45.05499&lon=-77.87313"
+  },
+  {
+    "name": "Kettle Lakes",
+    "location": "lat=48.572301&lon=-80.891863"
+  },
+  {
+    "name": "Killarney",
+    "location": "lat=46.012567&lon=-81.401889"
+  },
+  {
+    "name": "Killbear",
+    "location": "lat=45.35886&lon=-80.21344"
+  },
+  {
+    "name": "Komoka",
+    "location": "lat=42.952685&lon=-81.383479"
+  },
+  {
+    "name": "Lady Evelyn-Smoothwater",
+    "location": "lat=47.386069&lon=-80.529034"
+  },
+  {
+    "name": "Lake on the Mountain",
+    "location": "lat=44.039956&lon=-77.056496"
+  },
+  {
+    "name": "Lake St. Peter",
+    "location": "lat=45.319828&lon=-78.023067"
+  },
+  {
+    "name": "Lake Superior",
+    "location": "lat=47.722989&lon=-84.811803"
+  },
+  {
+    "name": "Long Point",
+    "location": "lat=42.5834&lon=-80.3829"
+  },
+  {
+    "name": "MacGregor Point",
+    "location": "lat=44.408899&lon=-81.446512"
+  },
+  {
+    "name": "MacLeod",
+    "location": "lat=49.690468&lon=-86.902049"
+  },
+  {
+    "name": "Makobe-Grays River",
+    "location": "lat=47.597126&lon=-80.374851"
+  },
+  {
+    "name": "Mara",
+    "location": "lat=44.586034&lon=-79.360174"
+  },
+  {
+    "name": "Mark S. Burnham",
+    "location": "lat=44.296983&lon=-78.270292"
+  },
+  {
+    "name": "Marten River",
+    "location": "lat=46.733831&lon=-79.803357"
+  },
+  {
+    "name": "McRae Point",
+    "location": "lat=44.569000&lon=-79.329000"
+  },
+  {
+    "name": "Mikisew",
+    "location": "lat=45.821413&lon=-79.512874"
+  },
+  {
+    "name": "Misery Bay",
+    "location": "lat=45.80044341&lon=-82.72610664"
+  },
+  {
+    "name": "Missinaibi",
+    "location": "lat=48.404334&lon=-83.521872"
+  },
+  {
+    "name": "Mississagi",
+    "location": "lat=46.57873&lon=-82.723984"
+  },
+  {
+    "name": "Mono Cliffs",
+    "location": "lat=44.0477951&lon=-80.07415366"
+  },
+  {
+    "name": "Murphys Point",
+    "location": "lat=44.782017809458644&lon=-76.23773574829102"
+  },
+  {
+    "name": "Nagagamisis",
+    "location": "lat=49.456218&lon=-84.696496"
+  },
+  {
+    "name": "Neys",
+    "location": "lat=48.787640&lon=-86.603851"
+  },
+  {
+    "name": "North Beach",
+    "location": "lat=43.953448&lon=-77.522129"
+  },
+  {
+    "name": "Oastler Lake",
+    "location": "lat=45.309631&lon=-79.963983"
+  },
+  {
+    "name": "Obabika River",
+    "location": "lat=47.14062&lon=-80.308512"
+  },
+  {
+    "name": "Ojibway",
+    "location": "lat=49.973826&lon=-92.138543"
+  },
+  {
+    "name": "Ouimet Canyon",
+    "location": "lat=48.766486&lon=-88.670826"
+  },
+  {
+    "name": "Oxtongue River-Ragged Falls",
+    "location": "lat=45.40646576&lon=-78.8890435"
+  },
+  {
+    "name": "Pakwash",
+    "location": "lat=50.766486&lon=-93.432090"
+  },
+  {
+    "name": "Pancake Bay",
+    "location": "lat=46.969783&lon=-84.702083"
+  },
+  {
+    "name": "Petroglyphs",
+    "location": "lat=44.5944706&lon=-78.039278"
+  },
+  {
+    "name": "Pigeon River",
+    "location": "lat=48.003692&lon=-89.580631"
+  },
+  {
+    "name": "Pinery",
+    "location": "lat=43.24841&lon=-81.82342"
+  },
+  {
+    "name": "Point Farms",
+    "location": "lat=43.8052&lon=-81.7130"
+  },
+  {
+    "name": "Port Bruce",
+    "location": "lat=42.65499&lon=-81.012649"
+  },
+  {
+    "name": "Port Burwell",
+    "location": "lat=42.647130&lon=-80.812941"
+  },
+  {
+    "name": "Potholes",
+    "location": "lat=47.958493&lon=-84.26831"
+  },
+  {
+    "name": "Presqu'ile",
+    "location": "lat=44.0101&lon=-77.7416"
+  },
+  {
+    "name": "Quetico",
+    "location": "lat=48.675&lon=-91.1258"
+  },
+  {
+    "name": "Rainbow Falls",
+    "location": "lat=48.8401716&lon=-87.3972518"
+  },
+  {
+    "name": "Rene Brunelle",
+    "location": "lat=49.417357&lon=-82.139301"
+  },
+  {
+    "name": "Restoule",
+    "location": "lat=46.065506&lon=-79.765654"
+  },
+  {
+    "name": "Rideau River",
+    "location": "lat=45.059854&lon=-75.671649"
+  },
+  {
+    "name": "Rock Point",
+    "location": "lat=42.8568061&lon=-79.5507386"
+  },
+  {
+    "name": "Rondeau",
+    "location": "lat=42.32407146&lon=-81.84698045"
+  },
+  {
+    "name": "Rushing River",
+    "location": "lat=49.6816&lon=-94.2359"
+  },
+  {
+    "name": "Samuel de Champlain",
+    "location": "lat=46.29000&lon=-78.86000"
+  },
+  {
+    "name": "Sandbanks",
+    "location": "lat=43.91122&lon=-77.24169"
+  },
+  {
+    "name": "Sandbar Lake",
+    "location": "lat=49.467516&lon=-91.545418"
+  },
+  {
+    "name": "Sauble Falls",
+    "location": "lat=44.6734319&lon=-81.2570725"
+  },
+  {
+    "name": "Selkirk",
+    "location": "lat=42.815804&lon=-79.957876"
+  },
+  {
+    "name": "Sharbot Lake",
+    "location": "lat=44.764794&lon=-76.72384"
+  },
+  {
+    "name": "Sibbald Point",
+    "location": "lat=44.3217&lon=-79.3250"
+  },
+  {
+    "name": "Silent Lake",
+    "location": "lat=44.92306&lon=-78.07121"
+  },
+  {
+    "name": "Silver Lake",
+    "location": "lat=44.82982&lon=-76.57669"
+  },
+  {
+    "name": "Sioux Narrows",
+    "location": "lat=49.429325&lon=-94.047582"
+  },
+  {
+    "name": "Six Mile Lake",
+    "location": "lat=44.88824&lon=-79.75216"
+  },
+  {
+    "name": "Sleeping Giant",
+    "location": "lat=48.360165&lon=-88.798065"
+  },
+  {
+    "name": "Solace",
+    "location": "lat=47.197998&lon=-80.693104"
+  },
+  {
+    "name": "Spanish River",
+    "location": "lat=46.411881&lon=-81.844265"
+  },
+  {
+    "name": "Springwater",
+    "location": "lat=44.441793&lon=-79.758725"
+  },
+  {
+    "name": "Sturgeon Bay",
+    "location": "lat=45.62355&lon=-80.41577"
+  },
+  {
+    "name": "The Massasauga",
+    "location": "lat=45.16050292&lon=-79.9717354"
+  },
+  {
+    "name": "Tidewater",
+    "location": "lat=51.220000&lon=-80.650000"
+  },
+  {
+    "name": "Turkey Point",
+    "location": "lat=42.700398&lon=-80.329666"
+  },
+  {
+    "name": "Voyageur",
+    "location": "lat=45.55561&lon=-74.44490"
+  },
+  {
+    "name": "Wabakimi",
+    "location": "lat=50.590000&lon=-89.550000"
+  },
+  {
+    "name": "Wakami Lake",
+    "location": "lat=47.554375&lon=-82.872957"
+  },
+  {
+    "name": "Wasaga Beach",
+    "location": "lat=44.498500&lon=-80.047283"
+  },
+  {
+    "name": "Wheatley",
+    "location": "lat=42.090666&lon=-82.442196"
+  },
+  {
+    "name": "White Lake",
+    "location": "lat=48.713534&lon=-85.649972"
+  },
+  {
+    "name": "Windy Lake",
+    "location": "lat=46.61996848&lon=-81.45770073"
+  },
+  {
+    "name": "Woodland Caribou",
+    "location": "lat=50.983145&lon=-94.196499"
+  }
+]

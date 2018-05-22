@@ -1,0 +1,196 @@
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  font-size: 16px;
+  height: 100%;
+  position: relative;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #4e7952;
+}
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}
+::-moz-scrollbar {
+    width: 0px;
+    background: transparent;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+body {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+.container img {
+  width: 100%;
+  position: relative;
+  z-index: -1;
+}
+form {
+  max-width: 55%;
+  margin: 0 auto;
+  margin-top: -330px;
+  position: relative;
+  z-index: 1;
+}
+form label {
+  font-size: 0;
+}
+select {
+  width: 100%;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  color: grey;
+  font-weight: bold;
+  font-size: 1.15rem;
+}
+input[type="submit"] {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1rem;
+  color: #FFF;
+  background-color: #de862c;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  display: block;
+  margin: 20px 0;
+  z-index: 1;
+  cursor: pointer;
+}
+form p {
+  font-weight: bold;
+  color: #29402b;
+  font-family: 'Lobster', cursive;
+  font-size: 1.75rem;
+  margin: 0 auto;
+  max-width: 100%;
+  text-align: center;
+}
+.locations {
+  margin: 0;
+  width: 40%;
+  height: 100%;
+  overflow: scroll;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  z-index: 200;
+}
+.locations > p {
+  font-weight: bold;
+  color: #29402b;
+  font-family: 'Lobster', cursive;
+  font-size: 1.75rem;
+  margin: 0 auto 10px;
+  max-width: 100%;
+  text-align: center;
+}
+.locations img {
+  max-width: 100%;
+  align-self: center;
+  margin: -30px auto -70px;
+}
+.map {
+  margin: 0;
+  width: 60%;
+  height: 100%;
+}
+.store {
+  max-width: 400px;
+  margin: 0 auto 5px;
+  background-size: cover;
+  background-position: center;
+  background-image: url(../imgs/wood.png);
+  background-repeat: no-repeat;
+  padding: 10px 25px;
+  color: #FFF;
+}
+a {
+  color: #FFF;
+  text-decoration: none;
+}
+.store > * {
+  text-shadow: 2px 2px rgba(0, 0, 0, 0.6);
+}
+.open {
+  font-size: 1rem;
+  font-weight: bold;
+  color: green;
+}
+.closed {
+  font-size: 1rem;
+  font-weight: bold;
+  color: red;
+}
+@media all and (max-width: 1055px) {
+  form {
+    margin-top: -310px;
+  }
+}
+@media all and (max-width: 980px) {
+  form {
+    margin-top: -290px;
+  }
+  input[type="submit"] {
+    font-size: .9rem;
+  }
+}
+@media all and (max-width: 900px) {
+  form {
+    margin-top: -270px;
+  }
+}
+@media all and (max-width: 840px) {
+  form {
+    margin-top: -240px;
+  }
+}
+@media all and (max-width: 750px) {
+  form {
+    margin-top: -210px;
+  }
+  select {
+      font-size: 1rem;
+  }
+}
+@media all and (max-width: 650px) {
+  form {
+    margin-top: -190px;
+  }
+  select {
+      font-size: .75rem;
+  }
+  .locations {
+    width: 0;
+  }
+  .map {
+    width: 100%;
+  }
+}
+@media all and (max-width: 590px) {
+  form {
+    margin-top: -160px;
+  }
+  form p {
+    font-size: 1.25rem;
+  }
+}
+@media all and (max-width: 500px) {
+  form {
+    margin-top: -140px;
+  }
+}
+@media all and (max-width: 440px) {
+  form {
+    margin-top: -120px;
+  }
+  input[type="submit"] {
+    font-size: .75rem;
+  }
+}
